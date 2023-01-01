@@ -18,6 +18,12 @@ public class BooksController : ControllerBase
     {
         return Ok(_bookServices.GetBooks());
     }
+
+    [HttpGet("{id}", Name = "GetBook")]
+    public IActionResult GetBook(string id)
+    {
+       return Ok(_bookServices.GetBook(id));
+    }
     
     [HttpPost]
     public IActionResult AddBook(Book book)

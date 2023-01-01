@@ -11,6 +11,7 @@ public class BookServices :  IBookServices
         _books = dbClient.GetBooksCollection();
     }
 
+    public Book GetBook(string id) => _books.Find(book => book.Id == id).First();
     public Book AddBook(Book book)
     {
         _books.InsertOne(book);
