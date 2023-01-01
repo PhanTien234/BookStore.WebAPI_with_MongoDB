@@ -25,3 +25,6 @@ C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\obj\Debug\net6
 C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\obj\Debug\net6.0\BookStore.WebAPI.pdb
 C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\obj\Debug\net6.0\BookStore.WebAPI.genruntimeconfig.cache
 C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\obj\Debug\net6.0\ref\BookStore.WebAPI.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\Bookstore.Core.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\Bookstore.Core.pdb

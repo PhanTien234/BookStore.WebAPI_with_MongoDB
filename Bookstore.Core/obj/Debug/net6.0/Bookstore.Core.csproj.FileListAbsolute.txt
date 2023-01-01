@@ -1,0 +1,12 @@
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\Bookstore.Core\bin\Debug\net6.0\Bookstore.Core.deps.json
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\Bookstore.Core\bin\Debug\net6.0\Bookstore.Core.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\Bookstore.Core\bin\Debug\net6.0\Bookstore.Core.pdb
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\Bookstore.Core\obj\Debug\net6.0\refint\Bookstore.Core.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\Bookstore.Core\obj\Debug\net6.0\Bookstore.Core.pdb
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\Bookstore.Core\obj\Debug\net6.0\ref\Bookstore.Core.dll
