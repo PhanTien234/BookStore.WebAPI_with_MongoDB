@@ -32,5 +32,11 @@ public class BooksController : ControllerBase
         return CreatedAtRoute("GetBook", new { id = book.Id }, book);
     }
 
+    [HttpDelete("{id}")]
+    public IActionResult DeleteBook(string id)
+    {
+        _bookServices.DeleteBook(id);
+        return NoContent();
+    }
 
 }

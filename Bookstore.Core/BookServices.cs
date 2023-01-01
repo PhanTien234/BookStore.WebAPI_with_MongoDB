@@ -18,6 +18,11 @@ public class BookServices :  IBookServices
         return book;
     }
 
+    public void DeleteBook(string id)
+    {
+        _books.DeleteOne(book => book.Id == id);
+    }
+
     public List<Book> GetBooks() => _books.Find(book => true).ToList();
 
 }
