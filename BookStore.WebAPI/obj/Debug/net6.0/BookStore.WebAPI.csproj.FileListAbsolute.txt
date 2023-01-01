@@ -28,3 +28,15 @@ C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\obj\Debug\net6
 C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\MongoDB.Bson.dll
 C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\Bookstore.Core.dll
 C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\Bookstore.Core.pdb
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\DnsClient.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\IOptionsWriter.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\JStreamAsyncNet.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\Snappier.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\PHANMINHTIEN\Downloads\BookStore.WebAPI\BookStore.WebAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll

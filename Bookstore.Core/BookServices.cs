@@ -1,16 +1,14 @@
-﻿namespace Bookstore.Core;
+﻿using MongoDB.Driver;
+
+namespace Bookstore.Core;
 
 public class BookServices :  IBookServices
 {
-    public List<Book> GetBooks()
+    private readonly IMongoCollection<Book> _books;
+    public BookServices(IDbClient dbClient)
     {
-        return new List<Book>
-        {
-            new Book
-            {
-                Name = "Test",
-                Price = 12.99
-            }
-        };
+        _books = dbClient.GetBooksCollection();
     }
+
+    public List<Book> GetBooks() => _books.Find(book => true).ToList();
 }
