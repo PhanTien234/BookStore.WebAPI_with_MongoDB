@@ -23,6 +23,13 @@ public class BookServices :  IBookServices
         _books.DeleteOne(book => book.Id == id);
     }
 
+    public Book UpdateBook(Book book)
+    {
+        GetBook(book.Id);
+        _books.ReplaceOne(b => b.Id == book.Id, book);
+        return book;
+    }
+
     public List<Book> GetBooks() => _books.Find(book => true).ToList();
 
 }

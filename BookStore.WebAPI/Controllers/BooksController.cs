@@ -39,4 +39,10 @@ public class BooksController : ControllerBase
         return NoContent();
     }
 
+    [HttpPut]
+    public IActionResult UpdateBook(Book book)
+    {
+        return Ok(_bookServices.UpdateBook(book));
+    }
+    
 }
