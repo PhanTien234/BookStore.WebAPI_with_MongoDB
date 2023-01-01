@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pkaHpuQpkS3mII29Yj0s8ZMVgyOgg8S/i7VAmTIcNVJzBscwyaqwNYVITeU7ZChfKCjVuefYLX18u4Toiz0EqA==",
+  "dgSpecHash": "GPSuLqibAcnS0DbL0xFPEMVLje8LlIszDEQ7EHK5CoimRZiLV7IHuD3irV/4R4P8gKh9P8aubw9dIBgYfneHvw==",
   "success": true,
   "projectFilePath": "C:\\Users\\PHANMINHTIEN\\Downloads\\BookStore.WebAPI\\Bookstore.Core\\Bookstore.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PHANMINHTIEN\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\PHANMINHTIEN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
