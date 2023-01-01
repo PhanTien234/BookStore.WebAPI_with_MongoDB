@@ -2,5 +2,5 @@
 
 public interface IBookServices
 {
-    
+    List<Book> GetBooks();
 }
