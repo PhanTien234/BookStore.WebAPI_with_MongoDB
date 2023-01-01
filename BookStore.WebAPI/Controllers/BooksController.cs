@@ -18,5 +18,13 @@ public class BooksController : ControllerBase
     {
         return Ok(_bookServices.GetBooks());
     }
+    
+    [HttpPost]
+    public IActionResult AddBook(Book book)
+    {
+        _bookServices.AddBook(book);
+        return CreatedAtRoute("GetBook", new { id = book.Id }, book);
+    }
+
 
 }

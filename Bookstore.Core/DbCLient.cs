@@ -3,10 +3,11 @@ using MongoDB.Driver;
 
 namespace Bookstore.Core;
 
-public class DbCLient : IDbClient
+public class DbClient : IDbClient
 {
     private readonly IMongoCollection<Book> _books;
-    public DbCLient(IOptions<BookstoreDbConfig> bookstoreDbConfig)
+
+    public DbClient(IOptions<BookstoreDbConfig> bookstoreDbConfig)
     {
         var client = new MongoClient(bookstoreDbConfig.Value.Connection_String);
         var database = client.GetDatabase(bookstoreDbConfig.Value.Database_Name);
@@ -14,4 +15,5 @@ public class DbCLient : IDbClient
     }
 
     public IMongoCollection<Book> GetBooksCollection() => _books;
+
 }
