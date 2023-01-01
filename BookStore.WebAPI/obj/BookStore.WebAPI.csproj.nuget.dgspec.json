@@ -45,7 +45,15 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "IOptionsWriter": {
+              "target": "Package",
+              "version": "[4.7.0.1, )"
+            },
             "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            },
+            "MongoDB.Driver": {
               "target": "Package",
               "version": "[2.18.0, )"
             }
